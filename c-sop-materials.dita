@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-sop-materials">
+ <title>Materials Needed</title>
+ <shortdesc>Before each use, it is important to make sure all eight parts of the machine are there and intact. These are listed in Figure 2.
+  The only other materials needed for the use of this machine are your chosen ingredients.
+ </shortdesc>
+ <conbody>
+  <p><fig>
+    <title>Figure 2 Necessary Parts for Cuisine® ICE-60W</title>
+   </fig><image href="necessary%20parts.png" id="image_fcw_1jv_4x"/></p>
+ </conbody>
+</concept>

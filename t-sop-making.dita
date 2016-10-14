@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-making">
+    <title>Making Frozen Desserts</title>
+    <shortdesc>Only follow these instructions when you are absolutely ready to make your frozen desserts. The freezer bowl defrosts quickly after removing from the freezer. If you fail to do so, you will not receive the results you want.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Make sure the lights on the machine are on. If they are not, plug the machine into the nearest outlet.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the freezer bowl on the center of the base.</cmd>
+            </step>
+            <step>
+                <cmd>Place the freezer bowl on the center of the base.</cmd>
+            </step>
+            <step>
+                <cmd>Place the mixing arm in the freezer bowl so that it rests in the center with the circle side facing up.</cmd>
+            </step>
+            <step>
+                <cmd>Place and lock the lid on the base.</cmd>
+            </step>
+            <step>
+                <cmd>Select your desired function: ICE CREAM, GELATO, or SORBET. The machine should beep to ensure it is in ready mode. </cmd>
+            <info>If you want frozen yogurt, select the ICE CREAM function.</info>
+            </step>
+            <step>
+                <cmd>Select Start/Stop. The freezer bowl should start turning.</cmd>
+            </step>
+            <step>
+                <cmd>Pour ingredients through ingredient spout immediately, and place the measurement cup on the lid.</cmd>
+            </step>
+            <step>
+                <cmd>Add any preferred extra ingredients once the dessert begins to thicken.</cmd>
+            <info>If you are adding melted chocolate, drizzle slowly to avoid clumps.</info>
+            </step>
+            <step>
+                <cmd>Enjoy your frozen dessert!</cmd>
+                <info>Depending on the recipe and volume of the bases, your frozen dessert should be ready anywhere between 15 to 40 minutes. Once it is finished, the machine will beep for 5 seconds every 3 minutes, for up to 30 minutes.</info>          
+        <info>If you desire a firmer consistency that the output, place your dessert into an airtight container and store in the freezer for at least two hours.</info>
+            </step></steps>
+    </taskbody>
+</task>

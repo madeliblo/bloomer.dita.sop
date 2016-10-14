@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-safety">
+ <title>Staying Safe When Using This Product</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>Before we start with instructions, it is necessary to inform you of any and all hazards
+   associated with the use of these machines. Please read carefully before use.</p>
+  <p></p>
+  <p>Risk assessment for yourself:</p>
+   <ol>
+    <li>Make sure there are no liquids near any parts of the machine to avoid any risk of electric shock. </li>
+   <li>Make sure there is no damage to the cord or plug, and consult with the previous user to make sure no malfunctions occurred.</li>
+   <li>Always avoid contact with moving parts to avoid risk of injury.</li></ol>
+  <p>Risk assessment for the machine:</p>
+  <ol> 
+  <li>Make sure the cord is out of the way and not hanging over the edge of a table or counter.</li>
+   <li>Never use sharp objects or utensils inside the freezer bowl to avoid any damages.</li>
+   <li>Unplug the machine before any cleaning or troubleshooting.</li>
+ </ol>
+
+ </conbody>
+</concept>

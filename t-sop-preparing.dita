@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c-preparing">
+    <title>Preparing Your Recipe</title>
+    <shortdesc>It is important to understand the proper way to prepare a recipe for this particular
+        machine before attempting your first time.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Wash and dry the freezer bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Freeze the freezer bowl completely before beginning your recipe; the usual time is between 12 and 24 hours. For optimal results, leave the freezer bowl in the back of the freezer at all times.</cmd>
+            </step>
+            <step>
+                <cmd>Shake the freezer bowl to find out whether it is completely frozen. If you do not hear any liquid moving inside, the cooling liquid is frozen.</cmd>
+            </step>
+            <step>
+                <cmd>Prepare ingredients in a container that is easy to pour from.</cmd>
+                <info>Make sure your ingredients yield 2 quarts or less.</info>
+                <info>Do NOT fill the freezer bowl higher than half an inch from the top.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

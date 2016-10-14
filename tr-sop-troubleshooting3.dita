@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="tr-sop-troubleshooting3">
+  <title>But I wanted it thick!?</title>
+  <troublebody>
+    <condition>
+      <p>My dessert is way too thin!?</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <p>Your ingredients and/or the temperature of the freezer bowl need to be re-evaluated.</p>
+      </cause>
+      <remedy>
+        <steps-unordered>
+          <step>
+            <cmd>Put the bowl back in the freezer, and double-check your recipe.</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

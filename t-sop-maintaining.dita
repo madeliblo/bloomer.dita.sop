@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-maintaining">
+    <title>Maintaining the Machine</title>
+    <shortdesc>At the end of each day, it is important to clean the machine for sanitary reasons.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Never use abrasive cleansers or dishwashers to clean the machine.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Clean the freezer bowl, mixing arm, and lid in warm, soapy water.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe motor base clean with damp cloth.</cmd>
+            </step>
+            <step>
+                <cmd>Dry all parts thoroughly.</cmd>
+                <info>To avoid any damage to the machine, make sure the freezer bowl is completely dry before placing in freezer.</info>
+                <info>Additionally, never store the lid, mixing arm, or base in the freezer.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

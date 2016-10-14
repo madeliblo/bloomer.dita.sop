@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-sop-coffeelatte">
+    <title>Coffee Latte Frozen Yogurt Recipe</title>
+    <shortdesc>This recipe and its nutritional information can be found at http://www.cuisinart.com/recipes/desserts/113.html.</shortdesc>
+    <taskbody>
+        <prereq>The ingredients are as follows:<ul>
+            <li>1 cup of whole milk</li>
+            <li>1 packet of plain gelatin</li>
+            <li>½ a cup of granulated sugar</li>
+            <li>3 tablespoons of instant espresso powder</li>
+            <li>1 quart (or about 3 ½ cups) of low-fat vanilla yogurt</li>
+            <li>½ a cup of half-and-half</li>
+        </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place milk in a 2-quart saucepan.</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle gelatin, and let it stand for 1 minute.</cmd>
+            </step>
+            <step>
+                <cmd>Heat the milk and gelatin, and stir until smooth.</cmd>
+            </step>
+            <step>
+                <cmd>Stir in sugar and espresso powder, and cook until sugar is dissolved.</cmd>
+            </step>
+            <step>
+                <cmd>Transfer to a medium bowl to cool.</cmd>
+            </step>
+            <step>
+                <cmd>Add the yogurt and half-and-half, and stir until completely blended.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture into the freezer bowl.</cmd>
+                <info>Be sure not to fill it higher than half an inch from the top.</info>
+            </step>
+            <step>
+                <cmd>If consistency is not to your desire, place the frozen yogurt into an airtight container, and freeze for at least 2 hours.</cmd>
+                <info>Remove from freezer 15 minutes before serving.</info>
+            </step>
+            <step>
+                <cmd>Enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-sop-intro">
+ <title>Introduction</title>
+ <shortdesc>Say Hello to Cuisinart® ICE-60W!</shortdesc>
+ <conbody>
+  <p>The College of Liberal Arts and Human Sciences (CLAHS) of Virginia Tech wants to thank all of
+   our students and faculty for all of their hard work and dedication. To extend our appreciation,
+   we have installed Cuisinart® Cool Creations™ Ice Cream Makers, shown in Figure 1, in each
+   classroom of Shanks Hall. We have created this set of instructions to let all of the potential
+   users of the machines know how to use and maintain these machines properly. Please read carefully
+   before use. And after that, be sure to enjoy! <fig>
+    <title>Figure 1 Cuisinart® ICE-60W</title>
+    <image href="cuisinart%20ice60w.png" id="image_yfk_m3v_4x"/>
+   </fig>
+  </p>
+ </conbody>
+</concept>

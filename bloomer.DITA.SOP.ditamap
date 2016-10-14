@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>We Scream for Ice Cream!</title>
+ <topicref href="c-sop.dita">
+  <topicref href="clahs.png" format="png"/>
+ </topicref>
+ <topicref href="c-sop-intro.dita">
+  <topicref href="cuisinart%20ice60w.png" format="png"/>
+ </topicref>
+ <topicref href="c-sop-materials.dita">
+  <topicref href="necessary%20parts.png" format="png"/>
+ </topicref>
+ <topicref href="c-sop-safety.dita"/>
+ <topicref href="t-sop-preparing.dita"/>
+ <topicref href="t-sop-making.dita"/>
+ <topicref href="t-sop-maintaining.dita"/>
+ <topicref href="t-sop-chocpretzel.dita"/>
+ <topicref href="t-sop-frozenyogurt.dita"/>
+ <topicref href="t-sop-coffeelatte.dita"/>
+ <topicref href="tr-sop-troubleshooting.dita"/>
+ <topicref href="tr-sop-troubleshooting2.dita"/>
+ <topicref href="tr-sop-troubleshooting3.dita"/>
+</map>

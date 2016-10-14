@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-sop-lemonyogurt">
+    <title>Frozen Lemon Yogurt Recipe</title>
+    <shortdesc>The recipe and its nutritional information can be found at http://www.cuisinart.com/recipes/desserts/162.html.</shortdesc>
+    <taskbody>
+        <prereq>The ingredients are as follows:<ul>
+            <li>1 cup of granulated sugar</li>
+            <li>1 cup of fresh frozen lemon juice</li>
+            <li>3 cups of plain low-fat yogurt</li>
+            <li>1 tablespoon of finely chopped lemon zest</li>
+        </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Combine sugar and lemon juice in a 1 – 1 ½ quart saucepan, and bring to a boil.</cmd>
+            </step>
+            <step>
+                <cmd>Reduce heat and simmer until sugar is completely melted.</cmd>
+            </step>
+            <step>
+                <cmd>Let cool, and refrigerate for 8 hours before using.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture into the freezer bowl.</cmd>
+                <info>Be sure not to fill it higher than half an inch from the top.</info>
+            </step>
+            <step>
+                <cmd>If consistency is not to your desire, place the frozen yogurt into an airtight container, and freeze for at least 2 hours.</cmd>
+                <info>Remove from freezer 15 minutes before serving.</info>
+            </step>
+            <step>
+                <cmd>Enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
